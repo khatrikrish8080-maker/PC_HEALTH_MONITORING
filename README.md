@@ -16,7 +16,7 @@ An end-to-end Machine Learning and Data Engineering pipeline that monitors local
 
 ## 🛠️ Tech Stack & Libraries
 * **Frontend:** Streamlit
-* **Machine Learning:** Core Python, Scikit-learn (SVM), NumPy, Pandas
+* **Machine Learning:** Core Python, Scikit-learn (SVM), NumPy, Pandas , Seaborn and Matplotlib
 * **Database:** MySQL (via `mysql-connector-python`)
 * **System Utilities:** `psutil`
 
